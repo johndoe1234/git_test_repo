@@ -2,6 +2,7 @@
 
 
 class Dupa
+#include <ble ble>
 {
 public:
     Dupa (arguments);
